@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07004_Greater Number", "070
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07005_Guess the Password", "07005_Guess the Password\07005_Guess the Password.csproj", "{2EABE6F0-CF3F-49C7-B8EF-66EFD9A6F356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07006_Boiling Water", "07006_Boiling Water\07006_Boiling Water.csproj", "{67FC2E0F-CCE4-48CD-8842-5289EE759C4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{2EABE6F0-CF3F-49C7-B8EF-66EFD9A6F356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EABE6F0-CF3F-49C7-B8EF-66EFD9A6F356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EABE6F0-CF3F-49C7-B8EF-66EFD9A6F356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FC2E0F-CCE4-48CD-8842-5289EE759C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FC2E0F-CCE4-48CD-8842-5289EE759C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FC2E0F-CCE4-48CD-8842-5289EE759C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FC2E0F-CCE4-48CD-8842-5289EE759C4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
