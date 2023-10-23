@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07007_Speed Info", "07007_S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07008_Ticket Price", "07008_Ticket Price\07008_Ticket Price.csproj", "{115D3653-5C65-4208-96F5-64995AC4C714}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07009_Area of Figures", "07009_Area of Figures\07009_Area of Figures.csproj", "{457FA644-85F9-4190-8F31-6B4FAC6DE0A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{115D3653-5C65-4208-96F5-64995AC4C714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{115D3653-5C65-4208-96F5-64995AC4C714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{115D3653-5C65-4208-96F5-64995AC4C714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457FA644-85F9-4190-8F31-6B4FAC6DE0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457FA644-85F9-4190-8F31-6B4FAC6DE0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457FA644-85F9-4190-8F31-6B4FAC6DE0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457FA644-85F9-4190-8F31-6B4FAC6DE0A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
