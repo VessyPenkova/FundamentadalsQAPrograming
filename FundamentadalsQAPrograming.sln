@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08002_Largest Number Out Of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08003_Bonus Score", "08003_Bonus Score\08003_Bonus Score.csproj", "{B3A80E52-DAC2-427E-8133-E783BEF4534C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08004_Food or Drink", "08004_Food or Drink\08004_Food or Drink.csproj", "{50679EA8-CD9C-4ECA-A390-4D3F5C7F778B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{B3A80E52-DAC2-427E-8133-E783BEF4534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A80E52-DAC2-427E-8133-E783BEF4534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A80E52-DAC2-427E-8133-E783BEF4534C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50679EA8-CD9C-4ECA-A390-4D3F5C7F778B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50679EA8-CD9C-4ECA-A390-4D3F5C7F778B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50679EA8-CD9C-4ECA-A390-4D3F5C7F778B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50679EA8-CD9C-4ECA-A390-4D3F5C7F778B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
