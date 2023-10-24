@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+           
         }
     }
 }
+
+//Write a program that prints numbers in given range over 3: 
+//•	Reads an integer number n – end of the range
+//•	Prints all numbers from 1 to n, over 3 (inclusively)

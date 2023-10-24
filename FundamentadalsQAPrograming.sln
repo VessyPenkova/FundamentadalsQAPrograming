@@ -193,6 +193,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10006_Exam Countdown", "100
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10007_Latin Letters", "10007_Latin Letters\10007_Latin Letters.csproj", "{745FBDD3-6FFD-4E23-B60E-0E8A6863ED7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11001_Decreasing Numbers", "11001_Decreasing Numbers\11001_Decreasing Numbers.csproj", "{237F1F93-26AE-4FEF-B026-EEC2AA6080CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -579,6 +581,10 @@ Global
 		{745FBDD3-6FFD-4E23-B60E-0E8A6863ED7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{745FBDD3-6FFD-4E23-B60E-0E8A6863ED7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{745FBDD3-6FFD-4E23-B60E-0E8A6863ED7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237F1F93-26AE-4FEF-B026-EEC2AA6080CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237F1F93-26AE-4FEF-B026-EEC2AA6080CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237F1F93-26AE-4FEF-B026-EEC2AA6080CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237F1F93-26AE-4FEF-B026-EEC2AA6080CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
