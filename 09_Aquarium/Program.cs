@@ -18,6 +18,8 @@ namespace _09_Aquarium
             double litercapasity = volume - (volume / 100 * percentage);
             //double litercapasityRounded = Math.Round((litercapasity), 2);
             Console.WriteLine(litercapasity.ToString("f2"), CultureInfo.InvariantCulture);
+
+
         }
     }
 }
