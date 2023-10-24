@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08004_Food or Drink", "0800
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08005_Fruit or Vegetable", "08005_Fruit or Vegetable\08005_Fruit or Vegetable.csproj", "{6FC605FA-96F7-4E0B-A398-AE725BFAB06E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08006_Day Of Week", "08006_Day Of Week\08006_Day Of Week.csproj", "{8FEAB715-52A7-426A-B553-5AF86FD1CC7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +455,10 @@ Global
 		{6FC605FA-96F7-4E0B-A398-AE725BFAB06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FC605FA-96F7-4E0B-A398-AE725BFAB06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FC605FA-96F7-4E0B-A398-AE725BFAB06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEAB715-52A7-426A-B553-5AF86FD1CC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEAB715-52A7-426A-B553-5AF86FD1CC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEAB715-52A7-426A-B553-5AF86FD1CC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEAB715-52A7-426A-B553-5AF86FD1CC7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
