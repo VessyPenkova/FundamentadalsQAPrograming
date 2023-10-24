@@ -4,7 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+           int number = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                if (number% 2 != 0 )
+                {
+                    Console.WriteLine(number); break;
+                }
+
+                number = int.Parse(Console.ReadLine());
+            }
         }
     }
 }
+
+//Write a program to enter an odd number:
+//•	Read numbers from the console until an odd number is entered
+//•	Print the odd number as output
