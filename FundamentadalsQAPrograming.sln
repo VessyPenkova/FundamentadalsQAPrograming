@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08006_Day Of Week", "08006_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08007_Vowel or Consonant", "08007_Vowel or Consonant\08007_Vowel or Consonant.csproj", "{B654CB8E-73FB-4B41-A206-CAAC650AFF39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08008_Sorted Numbers", "08008_Sorted Numbers\08008_Sorted Numbers.csproj", "{57B90278-4A9E-4C49-A8C2-011E8E909AF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{B654CB8E-73FB-4B41-A206-CAAC650AFF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B654CB8E-73FB-4B41-A206-CAAC650AFF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B654CB8E-73FB-4B41-A206-CAAC650AFF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B90278-4A9E-4C49-A8C2-011E8E909AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B90278-4A9E-4C49-A8C2-011E8E909AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B90278-4A9E-4C49-A8C2-011E8E909AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B90278-4A9E-4C49-A8C2-011E8E909AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
