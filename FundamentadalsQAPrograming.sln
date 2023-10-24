@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09003_Biggest of Five Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09004_Number Operations", "09004_Number Operations\09004_Number Operations.csproj", "{6A8BAEC6-6782-4AEE-B2CE-A87B97A6F9CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09005_Vacation Expenses", "09005_Vacation Expenses\09005_Vacation Expenses.csproj", "{E87DD560-F5FB-48A1-9243-3B9F7D67E201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{6A8BAEC6-6782-4AEE-B2CE-A87B97A6F9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A8BAEC6-6782-4AEE-B2CE-A87B97A6F9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A8BAEC6-6782-4AEE-B2CE-A87B97A6F9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87DD560-F5FB-48A1-9243-3B9F7D67E201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87DD560-F5FB-48A1-9243-3B9F7D67E201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87DD560-F5FB-48A1-9243-3B9F7D67E201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87DD560-F5FB-48A1-9243-3B9F7D67E201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
