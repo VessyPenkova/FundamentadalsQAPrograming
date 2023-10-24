@@ -201,6 +201,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11003_Sequence 2k + 1", "11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11004_Sum Digits", "11004_Sum Digits\11004_Sum Digits.csproj", "{667A013B-24AC-409A-80E1-8466F5D7F336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11005_Number in Range", "11005_Number in Range\11005_Number in Range.csproj", "{47F9A1A4-68B7-485E-847B-FC405C78E749}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -603,6 +605,10 @@ Global
 		{667A013B-24AC-409A-80E1-8466F5D7F336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{667A013B-24AC-409A-80E1-8466F5D7F336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{667A013B-24AC-409A-80E1-8466F5D7F336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F9A1A4-68B7-485E-847B-FC405C78E749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F9A1A4-68B7-485E-847B-FC405C78E749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F9A1A4-68B7-485E-847B-FC405C78E749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F9A1A4-68B7-485E-847B-FC405C78E749}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
