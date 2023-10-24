@@ -187,6 +187,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10003_Sum Numbers", "10003_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10004_Numbers Ending in 7", "10004_Numbers Ending in 7\10004_Numbers Ending in 7.csproj", "{2D491ACE-1BA8-479E-A74A-41081FE540D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10005_Numbers From 1 to N over 3", "10005_Numbers From 1 to N over 3\10005_Numbers From 1 to N over 3.csproj", "{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -561,6 +563,10 @@ Global
 		{2D491ACE-1BA8-479E-A74A-41081FE540D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D491ACE-1BA8-479E-A74A-41081FE540D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D491ACE-1BA8-479E-A74A-41081FE540D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
