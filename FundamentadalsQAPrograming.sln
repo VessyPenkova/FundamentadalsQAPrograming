@@ -189,6 +189,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10004_Numbers Ending in 7",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10005_Numbers From 1 to N over 3", "10005_Numbers From 1 to N over 3\10005_Numbers From 1 to N over 3.csproj", "{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10006_Exam Countdown", "10006_Exam Countdown\10006_Exam Countdown.csproj", "{DD2E21C2-2F17-4CD6-A948-2B382594804A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +569,10 @@ Global
 		{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C3C00B5-82BE-4F57-8795-BD2DB9B86AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2E21C2-2F17-4CD6-A948-2B382594804A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2E21C2-2F17-4CD6-A948-2B382594804A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2E21C2-2F17-4CD6-A948-2B382594804A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2E21C2-2F17-4CD6-A948-2B382594804A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
