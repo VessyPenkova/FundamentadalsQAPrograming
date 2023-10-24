@@ -141,6 +141,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07011_Coffee Shop", "07011_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07012_Coffee Shop with Checks", "07012_Coffee Shop with Checks\07012_Coffee Shop with Checks.csproj", "{F17295B0-EC6A-4E1B-9D7E-3EDFA7DCC8CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08001_Marketplace", "08001_Marketplace\08001_Marketplace.csproj", "{9BEE80B7-879D-4155-9DB7-C6C134F0F6F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +425,10 @@ Global
 		{F17295B0-EC6A-4E1B-9D7E-3EDFA7DCC8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F17295B0-EC6A-4E1B-9D7E-3EDFA7DCC8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F17295B0-EC6A-4E1B-9D7E-3EDFA7DCC8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEE80B7-879D-4155-9DB7-C6C134F0F6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEE80B7-879D-4155-9DB7-C6C134F0F6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEE80B7-879D-4155-9DB7-C6C134F0F6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEE80B7-879D-4155-9DB7-C6C134F0F6F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
