@@ -13,6 +13,8 @@ namespace _07012_Coffee_Shop_with_Checks
             double priceSugar = 0.40;
             double finalprice = 0;
 
+            bool isDrinkKnown = true;
+            bool isaddtionToDrinkKnown = true;
             string drinkType = Console.ReadLine();
 
             string additionToDrink = Console.ReadLine();
@@ -32,8 +34,8 @@ namespace _07012_Coffee_Shop_with_Checks
                 }
                 else
                 {
-                    Console.WriteLine("Unknown extra");
-
+                    isaddtionToDrinkKnown = false;
+                    //Console.WriteLine("Unknown extra");
                 }
             }
             else if (drinkType == "coffee")
@@ -51,14 +53,29 @@ namespace _07012_Coffee_Shop_with_Checks
                 }
                 else
                 {
-                    Console.WriteLine("Unknown extra");
+                    isaddtionToDrinkKnown = false;
+                   // Console.WriteLine("Unknown extra");
                 }
             }
             else if(drinkType != "tea" && drinkType != "coffee")
             {
+                isDrinkKnown =  false;
+               
+            }
+            if (isaddtionToDrinkKnown == false)
+            {
+                Console.WriteLine("Unknown extra");
+              
+            }
+            else if (isDrinkKnown  == false)
+            {
                 Console.WriteLine("Unknown drink");
             }
-            Console.WriteLine($"Final price: ${finalprice:f2}");
+            else
+            {
+                Console.WriteLine($"Final price: ${finalprice:f2}");
+            }
+         
         }
     }
 }
