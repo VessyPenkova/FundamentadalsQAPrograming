@@ -10,7 +10,7 @@ namespace _11004_Sum_Digits
             int sum = 0;
             for (int i = 0; i < sequence.Length; i++)
             {
-                int RealNumber = Convert.ToInt32(sequence[i]);
+                int RealNumber = Convert.ToInt32(sequence[i]) - '0';
                 sum += RealNumber;
             }
             Console.WriteLine(sum);
