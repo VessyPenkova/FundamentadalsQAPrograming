@@ -6,7 +6,20 @@ namespace _12003_Biggest_Number
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int largestNumber = int.MinValue;
+            int endOfTheLoop = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= endOfTheLoop; i++)
+            {
+                int firstNo = int.Parse(Console.ReadLine());
+                //int secondNo = int.Parse(Console.ReadLine());
+                //int tirthNo = int.Parse(Console.ReadLine());
+                if (firstNo > largestNumber)
+                {
+                    largestNumber = firstNo;
+                }
+            }
+            Console.WriteLine(largestNumber);
         }
     }
 }
