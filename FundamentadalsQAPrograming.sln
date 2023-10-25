@@ -225,6 +225,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12008_Account Balance", "12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13001_Numbers From N to 1", "13001_Numbers From N to 1\13001_Numbers From N to 1.csproj", "{AABF9853-A861-47E0-A32B-CF212101A410}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13002_Even Powers of 2", "13002_Even Powers of 2\13002_Even Powers of 2.csproj", "{6860504E-12B4-4C92-89C9-C9051AAB6F59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -675,6 +677,10 @@ Global
 		{AABF9853-A861-47E0-A32B-CF212101A410}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AABF9853-A861-47E0-A32B-CF212101A410}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AABF9853-A861-47E0-A32B-CF212101A410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6860504E-12B4-4C92-89C9-C9051AAB6F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6860504E-12B4-4C92-89C9-C9051AAB6F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6860504E-12B4-4C92-89C9-C9051AAB6F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6860504E-12B4-4C92-89C9-C9051AAB6F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
