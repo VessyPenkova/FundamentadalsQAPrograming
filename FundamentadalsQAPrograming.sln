@@ -231,6 +231,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13003_Triangle of Stars", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13004_Building", "13004_Building\13004_Building.csproj", "{D0BC909D-6D83-4A2A-9666-706BE670A2B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13005_Number Pyramid", "13005_Number Pyramid\13005_Number Pyramid.csproj", "{B998EC8F-A1FA-4911-A862-22FFECA184FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -693,6 +695,10 @@ Global
 		{D0BC909D-6D83-4A2A-9666-706BE670A2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0BC909D-6D83-4A2A-9666-706BE670A2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0BC909D-6D83-4A2A-9666-706BE670A2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B998EC8F-A1FA-4911-A862-22FFECA184FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B998EC8F-A1FA-4911-A862-22FFECA184FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B998EC8F-A1FA-4911-A862-22FFECA184FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B998EC8F-A1FA-4911-A862-22FFECA184FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
