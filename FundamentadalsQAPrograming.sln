@@ -215,6 +215,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12004_Vowel Sum", "12004_Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12005_Division to 2, 3 and 4", "12005_Division to 2, 3 and 4\12005_Division to 2, 3 and 4.csproj", "{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12006_Special Number", "12006_Special Number\12006_Special Number.csproj", "{B1EC4CCF-4515-4B15-839F-B9963D4E17FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12006A_Special Number", "12006A_Special Number\12006A_Special Number.csproj", "{386FF7F4-9AF1-49B6-B209-93ECFC3E0423}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -645,6 +649,14 @@ Global
 		{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EC4CCF-4515-4B15-839F-B9963D4E17FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EC4CCF-4515-4B15-839F-B9963D4E17FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EC4CCF-4515-4B15-839F-B9963D4E17FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EC4CCF-4515-4B15-839F-B9963D4E17FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386FF7F4-9AF1-49B6-B209-93ECFC3E0423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386FF7F4-9AF1-49B6-B209-93ECFC3E0423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386FF7F4-9AF1-49B6-B209-93ECFC3E0423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386FF7F4-9AF1-49B6-B209-93ECFC3E0423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
