@@ -12,8 +12,7 @@ namespace _12003_Biggest_Number
             for (int i = 1; i <= endOfTheLoop; i++)
             {
                 int firstNo = int.Parse(Console.ReadLine());
-                //int secondNo = int.Parse(Console.ReadLine());
-                //int tirthNo = int.Parse(Console.ReadLine());
+               
                 if (firstNo > largestNumber)
                 {
                     largestNumber = firstNo;

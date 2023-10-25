@@ -213,6 +213,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12003_Biggest Number", "120
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12004_Vowel Sum", "12004_Vowel Sum\12004_Vowel Sum.csproj", "{A321C64D-D0B4-462B-9C93-E93D1970F706}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12005_Division to 2, 3 and 4", "12005_Division to 2, 3 and 4\12005_Division to 2, 3 and 4.csproj", "{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -639,6 +641,10 @@ Global
 		{A321C64D-D0B4-462B-9C93-E93D1970F706}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A321C64D-D0B4-462B-9C93-E93D1970F706}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A321C64D-D0B4-462B-9C93-E93D1970F706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3662D8AA-7808-4EF8-9BE4-EAEC83D20FF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
