@@ -19,7 +19,7 @@ namespace _12006_Special_Number
 
             for (int i = 0; i < sequence.Length; i++)
             {
-                int RealNumber = Convert.ToInt32(sequence[i]) - '0';// take the char on [i] place of the sequence as number from Ascii table
+                int RealNumber = Convert.ToInt32(sequence[i]) - '0';// Convert the char on position[i]from the sequence as number from Ascii table
 
                 if (number % RealNumber != 0)
                 {
