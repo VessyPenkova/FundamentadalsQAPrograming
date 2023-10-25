@@ -4,7 +4,32 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string command = Console.ReadLine();
+            double balance = 0;
+            while (true)
+            {
+                if (command == "End")
+                {
+                    Console.WriteLine($"Balance: {balance:f2}");
+                    break;
+                }
+                double amount = double.Parse(command);
+
+                if (amount < 0)
+                {
+                    balance += amount;
+                    double mathabs = Math.Abs(amount);
+                    Console.WriteLine($"Decrease: {mathabs:F2}");
+                   
+                }
+                if (amount>0)
+                {
+                    balance += amount;
+                    Console.WriteLine($"Increase: {amount:f2}");
+                    
+                }              
+                command = Console.ReadLine();
+            }
         }
     }
 }
