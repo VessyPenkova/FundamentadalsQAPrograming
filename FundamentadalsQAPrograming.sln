@@ -241,6 +241,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13008_Prime Numbers", "1300
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14001_Methods_Lab_Sign of Integer Numbers", "14001_Methods_Lab_Sign of Integer Numbers\14001_Methods_Lab_Sign of Integer Numbers.csproj", "{E59A92F3-F4E9-4BA7-82EF-E6585C305B3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14002_Methods_Lab_Grades", "14002_Methods_Lab_Grades\14002_Methods_Lab_Grades.csproj", "{E75B64F7-E68D-4314-8139-9B43BD73C69B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -723,6 +725,10 @@ Global
 		{E59A92F3-F4E9-4BA7-82EF-E6585C305B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E59A92F3-F4E9-4BA7-82EF-E6585C305B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E59A92F3-F4E9-4BA7-82EF-E6585C305B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75B64F7-E68D-4314-8139-9B43BD73C69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75B64F7-E68D-4314-8139-9B43BD73C69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75B64F7-E68D-4314-8139-9B43BD73C69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75B64F7-E68D-4314-8139-9B43BD73C69B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
