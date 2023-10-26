@@ -4,7 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int sideA = int.Parse(Console.ReadLine());
+            int sideB = int.Parse(Console.ReadLine());
+
+
+            int area = AreaOfRectangle(sideA, sideB);
+
+            Console.WriteLine(area);
+
+
+
+            static int AreaOfRectangle (int a, int b)
+            {
+                return  a * b;
+            }   
         }
     }
 }
