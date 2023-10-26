@@ -275,6 +275,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15008_Multiplication Sign_E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15009_Password Validator_Exercise_Nested_Loops_Methods", "15009_Password Validator_Exercise_Nested_Loops_Methods\15009_Password Validator_Exercise_Nested_Loops_Methods.csproj", "{51BD1217-FFE5-402A-85C7-B5B859D009B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15009A_Password Validator_Exercise_Nested_Loops_Methods", "15009A_Password Validator_Exercise_Nested_Loops_Methods\15009A_Password Validator_Exercise_Nested_Loops_Methods.csproj", "{13522EEA-A811-4C11-995F-E2024084032C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -825,6 +827,10 @@ Global
 		{51BD1217-FFE5-402A-85C7-B5B859D009B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51BD1217-FFE5-402A-85C7-B5B859D009B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51BD1217-FFE5-402A-85C7-B5B859D009B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13522EEA-A811-4C11-995F-E2024084032C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13522EEA-A811-4C11-995F-E2024084032C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13522EEA-A811-4C11-995F-E2024084032C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13522EEA-A811-4C11-995F-E2024084032C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
