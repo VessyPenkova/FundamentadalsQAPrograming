@@ -243,6 +243,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14001_Methods_Lab_Sign of I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14002_Methods_Lab_Grades", "14002_Methods_Lab_Grades\14002_Methods_Lab_Grades.csproj", "{E75B64F7-E68D-4314-8139-9B43BD73C69B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14003_Methods_Lab_Printing Triangle", "14003_Methods_Lab_Printing Triangle\14003_Methods_Lab_Printing Triangle.csproj", "{6C36DEA2-0359-4628-8151-7AC43E255A09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -729,6 +731,10 @@ Global
 		{E75B64F7-E68D-4314-8139-9B43BD73C69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E75B64F7-E68D-4314-8139-9B43BD73C69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E75B64F7-E68D-4314-8139-9B43BD73C69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C36DEA2-0359-4628-8151-7AC43E255A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C36DEA2-0359-4628-8151-7AC43E255A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C36DEA2-0359-4628-8151-7AC43E255A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C36DEA2-0359-4628-8151-7AC43E255A09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,15 +12,15 @@
         {
             if (numberToCheck < 0)
             {
-                Console.WriteLine("negative");
+                Console.WriteLine($"The number {numberToCheck} is negative.");
             }
             else if (numberToCheck > 0)
             {
-                Console.WriteLine("positive");
+                Console.WriteLine($"The number {numberToCheck} is positive.");
             }
             else if (numberToCheck == 0)
             {
-                Console.WriteLine("zero");
+                Console.WriteLine($"The number {numberToCheck} is zero.");
             }
         }
     }
