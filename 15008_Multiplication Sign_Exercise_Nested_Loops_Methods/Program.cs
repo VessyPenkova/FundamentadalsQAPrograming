@@ -13,23 +13,23 @@
 
         private static void FindTheSignOftheMultiplyProduct(int num1, int num2, int num3)
         {
-            if (num1 == 0 || num2 == 0 || num2 == 0)
+            if (num1 == 0 || num2 == 0 || num3 == 0)
             {
                 Console.WriteLine("zero");
             }
-            else
 
+            else if (num1 != 0 && num2 != 0 && num3 != 0)
             {
                 int signCounter = 0;
-                if (num1 < 0)
+                if (num1 < 0 && num1 !=0)
                 {
                     signCounter++;
                 }
-                if (num2 < 0)
+                if (num2 < 0 && num2 !=0)
                 {
                     signCounter++;
                 }
-                if (num3 < 0)
+                if (num3 < 0 && num3 != 0)
                 {
                     signCounter++;
                 }
@@ -37,7 +37,7 @@
                 {
                     Console.WriteLine("negative");
                 }
-                else
+                else if (signCounter % 2 == 0)
                 {
                     Console.WriteLine("positive");
                 }
