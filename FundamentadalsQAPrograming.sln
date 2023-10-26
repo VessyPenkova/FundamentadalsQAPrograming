@@ -249,7 +249,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14004_Methods_Lab_Calculate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14005_Methods_Lab_Repeat String", "14005_Methods_Lab_Repeat String\14005_Methods_Lab_Repeat String.csproj", "{5552D129-CC7A-4192-9161-D20CCB7B1C43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14006._Methods_Lab_Math Power", "14006._Methods_Lab_Math Power\14006._Methods_Lab_Math Power.csproj", "{35F7FD4C-6E06-45EB-AFA6-876341BD07F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14006_Methods_Lab_Math Power", "14006._Methods_Lab_Math Power\14006_Methods_Lab_Math Power.csproj", "{35F7FD4C-6E06-45EB-AFA6-876341BD07F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14007_Methods_Lab_Greater of Two Values", "14007_Methods_Lab_Greater of Two Values\14007_Methods_Lab_Greater of Two Values.csproj", "{71FEF58D-12BA-40CD-80AD-74A5C4D6DD5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -753,6 +755,10 @@ Global
 		{35F7FD4C-6E06-45EB-AFA6-876341BD07F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35F7FD4C-6E06-45EB-AFA6-876341BD07F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35F7FD4C-6E06-45EB-AFA6-876341BD07F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FEF58D-12BA-40CD-80AD-74A5C4D6DD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FEF58D-12BA-40CD-80AD-74A5C4D6DD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FEF58D-12BA-40CD-80AD-74A5C4D6DD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FEF58D-12BA-40CD-80AD-74A5C4D6DD5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
