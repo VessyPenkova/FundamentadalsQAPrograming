@@ -247,6 +247,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14003_Methods_Lab_Printing 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14004_Methods_Lab_Calculate Rectangle Area", "14004_Methods_Lab_Calculate Rectangle Area\14004_Methods_Lab_Calculate Rectangle Area.csproj", "{7D20D8CF-6BC5-4701-8D81-5F1EE8C817D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14005_Methods_Lab_Repeat String", "14005_Methods_Lab_Repeat String\14005_Methods_Lab_Repeat String.csproj", "{5552D129-CC7A-4192-9161-D20CCB7B1C43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -741,6 +743,10 @@ Global
 		{7D20D8CF-6BC5-4701-8D81-5F1EE8C817D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D20D8CF-6BC5-4701-8D81-5F1EE8C817D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D20D8CF-6BC5-4701-8D81-5F1EE8C817D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5552D129-CC7A-4192-9161-D20CCB7B1C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5552D129-CC7A-4192-9161-D20CCB7B1C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5552D129-CC7A-4192-9161-D20CCB7B1C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5552D129-CC7A-4192-9161-D20CCB7B1C43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
