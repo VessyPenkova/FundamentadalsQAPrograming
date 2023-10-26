@@ -277,6 +277,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15009_Password Validator_Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15009A_Password Validator_Exercise_Nested_Loops_Methods", "15009A_Password Validator_Exercise_Nested_Loops_Methods\15009A_Password Validator_Exercise_Nested_Loops_Methods.csproj", "{13522EEA-A811-4C11-995F-E2024084032C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16001_Day of Week_ Lab_Arrays", "16001_Day of Week_ Lab_Arrays\16001_Day of Week_ Lab_Arrays.csproj", "{077191C9-2A6E-4A8C-9260-D3D4F5C91BFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -831,6 +833,10 @@ Global
 		{13522EEA-A811-4C11-995F-E2024084032C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13522EEA-A811-4C11-995F-E2024084032C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13522EEA-A811-4C11-995F-E2024084032C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077191C9-2A6E-4A8C-9260-D3D4F5C91BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077191C9-2A6E-4A8C-9260-D3D4F5C91BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077191C9-2A6E-4A8C-9260-D3D4F5C91BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077191C9-2A6E-4A8C-9260-D3D4F5C91BFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

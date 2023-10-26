@@ -57,7 +57,6 @@
             for (int i = 0; i <= password.Length - 1; i++)
             {
                 char currentChar = password[i];
-                digitCounter = 0;
                 if (char.IsDigit(currentChar) == true)
                 {
                     digitCounter++;
