@@ -21,21 +21,22 @@ else if (valueType == "string")
     string str1 = Console.ReadLine();
     string str2 = Console.ReadLine();
 
-    Console.WriteLine(GreaterFromTwoStrings(str1, str1));   
+    Console.WriteLine(GreaterFromTwoStrings(str1, str2));   
 }
+
 
 static string GreaterFromTwoStrings(string str1, string str2)
 {
-   
-    if(str1.CompareTo(str2) < 0)
+    string result = "";
+    if(str1.CompareTo(str2) > 0)
     {
-       return  str1;
+       result =   str1;
     }
     else
     {
-        return str2;
+        result =  str2;
     }
-   
+    return result;
 }
 static char  GreaterFromTwoChars(char char1, char char2)
 {
@@ -63,6 +64,9 @@ static int GreaterFromTwoNumbers(int num1, int num2)
     }
     return result;
 }
+
+
+
 
 //•	Reads a type (string) and two values of this type from the console
 //•	Entered type can be one of the following values: "int", "char" or "string"
