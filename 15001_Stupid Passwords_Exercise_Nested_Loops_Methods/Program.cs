@@ -10,9 +10,9 @@
 
         private static void GeneratePassword(int inputnumber)
         {
-            for (int i = 2; i < inputnumber; i += 2)
+            for (int i = 2; i <=inputnumber; i += 2)
             {
-                for (int j = 1; j < inputnumber; j += 2)
+                for (int j = 1; j <= inputnumber; j += 2)
                 {
                     Console.Write($"{i}{j}{i * j} ");
                 }

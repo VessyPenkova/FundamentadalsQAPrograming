@@ -259,6 +259,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14009_Methods_Lab_Orders", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15001_Stupid Passwords_Exercise_Nested_Loops_Methods", "15001_Stupid Passwords_Exercise_Nested_Loops_Methods\15001_Stupid Passwords_Exercise_Nested_Loops_Methods.csproj", "{EF96A3E0-5F7B-4D61-9BCE-EAE33787445E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15002_Magic Numbers_Exercise_Nested_Loops_Methods", "15002_Magic Numbers_Exercise_Nested_Loops_Methods\15002_Magic Numbers_Exercise_Nested_Loops_Methods.csproj", "{502CD071-475F-4CC8-9A8A-BC562E098916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -777,6 +779,10 @@ Global
 		{EF96A3E0-5F7B-4D61-9BCE-EAE33787445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF96A3E0-5F7B-4D61-9BCE-EAE33787445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF96A3E0-5F7B-4D61-9BCE-EAE33787445E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502CD071-475F-4CC8-9A8A-BC562E098916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502CD071-475F-4CC8-9A8A-BC562E098916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502CD071-475F-4CC8-9A8A-BC562E098916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502CD071-475F-4CC8-9A8A-BC562E098916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
