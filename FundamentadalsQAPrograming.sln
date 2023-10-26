@@ -265,6 +265,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15003_Unique PIN Codes_Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15004_Letter-Combinations_Exercise_Nested_Loops_Methods", "15004_Letter-Combinations_Exercise_Nested_Loops_Methods\15004_Letter-Combinations_Exercise_Nested_Loops_Methods.csproj", "{038CDFD5-0061-4360-9A97-6451D715D4B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15005_Happy Numbers_Exercise_Nested_Loops_Methods", "15005_Happy Numbers_Exercise_Nested_Loops_Methods\15005_Happy Numbers_Exercise_Nested_Loops_Methods.csproj", "{777B904B-F68A-4FFF-877C-71C3461B5F71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -795,6 +797,10 @@ Global
 		{038CDFD5-0061-4360-9A97-6451D715D4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038CDFD5-0061-4360-9A97-6451D715D4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038CDFD5-0061-4360-9A97-6451D715D4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777B904B-F68A-4FFF-877C-71C3461B5F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777B904B-F68A-4FFF-877C-71C3461B5F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777B904B-F68A-4FFF-877C-71C3461B5F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777B904B-F68A-4FFF-877C-71C3461B5F71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
