@@ -6,7 +6,7 @@
         {
             int inputNumber = int.Parse(Console.ReadLine());
            
-            for (int firstNum = 1; firstNum <= 0; firstNum++)
+            for (int firstNum = 1; firstNum <= 9; firstNum++)
             {
                 for (int secondnum = 0; secondnum <= 9; secondnum++)
                 {
