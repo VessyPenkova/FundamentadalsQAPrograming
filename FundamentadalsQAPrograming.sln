@@ -289,6 +289,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16005_Equal Arrays_ Lab_Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16006_Common Elements_ Lab_Arrays", "16006_Common Elements_ Lab_Arrays\16006_Common Elements_ Lab_Arrays.csproj", "{C71DD989-530D-4195-AEFE-D6EE0F3C4702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17001_Change List_ Lab_Lists", "17001_Change List_ Lab_Lists\17001_Change List_ Lab_Lists.csproj", "{1D2ACCFC-0F50-4138-A375-C72D4B64110E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -867,6 +869,10 @@ Global
 		{C71DD989-530D-4195-AEFE-D6EE0F3C4702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C71DD989-530D-4195-AEFE-D6EE0F3C4702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C71DD989-530D-4195-AEFE-D6EE0F3C4702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2ACCFC-0F50-4138-A375-C72D4B64110E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2ACCFC-0F50-4138-A375-C72D4B64110E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2ACCFC-0F50-4138-A375-C72D4B64110E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2ACCFC-0F50-4138-A375-C72D4B64110E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
