@@ -9,7 +9,9 @@ namespace _14009_Methods_Lab_Orders
             string product = Console.ReadLine();
             int quantity = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(CalculateTheFinalAmountMethod(product, quantity));
+            double result = CalculateTheFinalAmountMethod(product, quantity);
+
+            Console.WriteLine($"{result:f2}");
         }
 
         private static double CalculateTheFinalAmountMethod(string product, int quantity)
@@ -29,7 +31,7 @@ namespace _14009_Methods_Lab_Orders
             }
             else if (product == "snacks")
             {
-                result = quantity * 1.40;
+                result = quantity * 2.00;
             }
             return result;
         }
