@@ -5,12 +5,13 @@
         static void Main(string[] args)
         {
             string text = Console.ReadLine();
-            GetVowelsCount(text);
+            int countedWovels = GetVowelsCount(text);
+            Console.WriteLine(countedWovels);
         }
 
-        private static void GetVowelsCount(string text)
+        private static int GetVowelsCount(string text)
         {
-            char[] vowels = { 'A', 'a', 'O', 'o', 'U', 'u', 'I', 'i' };
+            char[] vowels = { 'A', 'a','E' ,'e','O', 'o', 'U', 'u', 'I', 'i' };
             int wavelCounter = 0;
             for (int i = 0; i <= text.Length - 1; i++)
             {
@@ -19,6 +20,7 @@
                     wavelCounter++;
                 }
             }
+            return wavelCounter;
         }
     }
 }

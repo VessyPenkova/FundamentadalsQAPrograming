@@ -271,6 +271,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15007_Factorial Division_Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15006_Vowels Count_ Exercise_Nested_Loops_Methods", "15006_Vowels Count_ Exercise_Nested_Loops_Methods\15006_Vowels Count_ Exercise_Nested_Loops_Methods.csproj", "{90691CA2-DDDD-4324-9810-4ADE62C39685}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15008_Multiplication Sign_Exercise_Nested_Loops_Methods", "15008_Multiplication Sign_Exercise_Nested_Loops_Methods\15008_Multiplication Sign_Exercise_Nested_Loops_Methods.csproj", "{C9EAB55E-92CB-41A6-B94F-0C61388D3690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -813,6 +815,10 @@ Global
 		{90691CA2-DDDD-4324-9810-4ADE62C39685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90691CA2-DDDD-4324-9810-4ADE62C39685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90691CA2-DDDD-4324-9810-4ADE62C39685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9EAB55E-92CB-41A6-B94F-0C61388D3690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EAB55E-92CB-41A6-B94F-0C61388D3690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EAB55E-92CB-41A6-B94F-0C61388D3690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EAB55E-92CB-41A6-B94F-0C61388D3690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
