@@ -16,7 +16,7 @@
             for (int i = 0; i < arr1.Length; i++)
             {
                 int currentNumberFromTheArray1 = arr1[i];
-                int currentNumberFromTheArray2 = arr1[i];
+                int currentNumberFromTheArray2 = arr2[i];
                 if (currentNumberFromTheArray1 != currentNumberFromTheArray2)
                 {
                     areBothArraysIdntical = false;
