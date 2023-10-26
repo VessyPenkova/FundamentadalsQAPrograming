@@ -6,17 +6,16 @@
         {
             int number = int.Parse(Console.ReadLine());
             string[] daysOfTheWeek = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
-            for (int i = 0; i < daysOfTheWeek.Length-1; i++)
-            {
-                if (i == number )
+            
+                if (number>=1 && number <= daysOfTheWeek.Length)
                 {
-                    Console.WriteLine(daysOfTheWeek[i]);
+                    Console.WriteLine(daysOfTheWeek[number-1]);
                 }
-                if (number<0 || number > daysOfTheWeek.Length-1)
+                else
                 {
                     Console.WriteLine("Invalid day!");
                 }
-            }
+            
         }
     }
 }
