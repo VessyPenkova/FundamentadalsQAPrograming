@@ -295,6 +295,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17001A_Change_List__Lab_Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17002_List of Products_ Lab_Lists", "17002_List of Products_ Lab_Lists\17002_List of Products_ Lab_Lists.csproj", "{70BBD974-AC83-4B08-A20C-90F51714D58E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17002A_List_of_Products__Lab_Lists", "17002A_List_of_Products__Lab_Lists\17002A_List_of_Products__Lab_Lists.csproj", "{96367100-9E0D-4143-B146-FD3E7E8A1304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -885,6 +887,10 @@ Global
 		{70BBD974-AC83-4B08-A20C-90F51714D58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70BBD974-AC83-4B08-A20C-90F51714D58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70BBD974-AC83-4B08-A20C-90F51714D58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96367100-9E0D-4143-B146-FD3E7E8A1304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96367100-9E0D-4143-B146-FD3E7E8A1304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96367100-9E0D-4143-B146-FD3E7E8A1304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96367100-9E0D-4143-B146-FD3E7E8A1304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
