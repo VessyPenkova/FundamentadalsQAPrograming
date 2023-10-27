@@ -311,6 +311,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17005A_List_Manipulation_Ad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18001_Gauss' Trick_Arrays_Lists_Exercise", "18001_Gauss' Trick_Arrays_Lists_Exercise\18001_Gauss' Trick_Arrays_Lists_Exercise.csproj", "{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18002_Condense Array to Number_Arrays_Lists_Exercise", "18002_Condense Array to Number_Arrays_Lists_Exercise\18002_Condense Array to Number_Arrays_Lists_Exercise.csproj", "{9A82BD17-40DB-4E78-893E-BF89CAC095E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -933,6 +935,10 @@ Global
 		{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A82BD17-40DB-4E78-893E-BF89CAC095E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A82BD17-40DB-4E78-893E-BF89CAC095E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A82BD17-40DB-4E78-893E-BF89CAC095E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A82BD17-40DB-4E78-893E-BF89CAC095E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
