@@ -293,6 +293,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17001_Change List_ Lab_List
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17001A_Change_List__Lab_Lists", "17001A_Change_List__Lab_Lists\17001A_Change_List__Lab_Lists.csproj", "{3D16A12D-3FE3-4DF2-984E-A8026A82DA50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17002_List of Products_ Lab_Lists", "17002_List of Products_ Lab_Lists\17002_List of Products_ Lab_Lists.csproj", "{70BBD974-AC83-4B08-A20C-90F51714D58E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -879,6 +881,10 @@ Global
 		{3D16A12D-3FE3-4DF2-984E-A8026A82DA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D16A12D-3FE3-4DF2-984E-A8026A82DA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D16A12D-3FE3-4DF2-984E-A8026A82DA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BBD974-AC83-4B08-A20C-90F51714D58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BBD974-AC83-4B08-A20C-90F51714D58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BBD974-AC83-4B08-A20C-90F51714D58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BBD974-AC83-4B08-A20C-90F51714D58E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
