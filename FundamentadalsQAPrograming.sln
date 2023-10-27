@@ -307,6 +307,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17004A_List_Manipulation_Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17005_List Manipulation Advanced_ Lab_Lists", "17005_List Manipulation Advanced_ Lab_Lists\17005_List Manipulation Advanced_ Lab_Lists.csproj", "{F7EC4BD5-3C13-4472-B787-4C4057FBB30A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17005A_List_Manipulation_Advanced__Lab_Lists", "17005A_List_Manipulation_Advanced__Lab_Lists\17005A_List_Manipulation_Advanced__Lab_Lists.csproj", "{C5D4022F-EBAF-4D60-B602-A307F350B40E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -921,6 +923,10 @@ Global
 		{F7EC4BD5-3C13-4472-B787-4C4057FBB30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7EC4BD5-3C13-4472-B787-4C4057FBB30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7EC4BD5-3C13-4472-B787-4C4057FBB30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D4022F-EBAF-4D60-B602-A307F350B40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D4022F-EBAF-4D60-B602-A307F350B40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D4022F-EBAF-4D60-B602-A307F350B40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D4022F-EBAF-4D60-B602-A307F350B40E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
