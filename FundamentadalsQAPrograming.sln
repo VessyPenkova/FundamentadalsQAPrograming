@@ -309,6 +309,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17005_List Manipulation Adv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17005A_List_Manipulation_Advanced__Lab_Lists", "17005A_List_Manipulation_Advanced__Lab_Lists\17005A_List_Manipulation_Advanced__Lab_Lists.csproj", "{C5D4022F-EBAF-4D60-B602-A307F350B40E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18001_Gauss' Trick_Arrays_Lists_Exercise", "18001_Gauss' Trick_Arrays_Lists_Exercise\18001_Gauss' Trick_Arrays_Lists_Exercise.csproj", "{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -927,6 +929,10 @@ Global
 		{C5D4022F-EBAF-4D60-B602-A307F350B40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5D4022F-EBAF-4D60-B602-A307F350B40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5D4022F-EBAF-4D60-B602-A307F350B40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
