@@ -301,6 +301,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17003_Remove Negatives and 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17003A_Remove_Negatives_and_Reverse__Lab_Lists", "17003A_Remove_Negatives_and_Reverse__Lab_Lists\17003A_Remove_Negatives_and_Reverse__Lab_Lists.csproj", "{86906CED-7131-4800-B359-6BD9D43C1601}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17004_List Manipulation Basics_ Lab_Lists", "17004_List Manipulation Basics_ Lab_Lists\17004_List Manipulation Basics_ Lab_Lists.csproj", "{A12BA8CF-AFFA-4DF7-A67D-9B9F432DCBBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -903,6 +905,10 @@ Global
 		{86906CED-7131-4800-B359-6BD9D43C1601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86906CED-7131-4800-B359-6BD9D43C1601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86906CED-7131-4800-B359-6BD9D43C1601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12BA8CF-AFFA-4DF7-A67D-9B9F432DCBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12BA8CF-AFFA-4DF7-A67D-9B9F432DCBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12BA8CF-AFFA-4DF7-A67D-9B9F432DCBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12BA8CF-AFFA-4DF7-A67D-9B9F432DCBBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
