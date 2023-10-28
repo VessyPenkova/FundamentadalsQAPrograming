@@ -315,6 +315,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18002_Condense Array to Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18003_Merging Lists_Arrays_Lists_Exercise", "18003_Merging Lists_Arrays_Lists_Exercise\18003_Merging Lists_Arrays_Lists_Exercise.csproj", "{657DB6F7-F934-48E0-BA3E-CF53015284DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise", "18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise\18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise.csproj", "{A5A1C18D-1595-42C5-BD49-21D75E78C58B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -945,6 +947,10 @@ Global
 		{657DB6F7-F934-48E0-BA3E-CF53015284DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657DB6F7-F934-48E0-BA3E-CF53015284DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657DB6F7-F934-48E0-BA3E-CF53015284DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A1C18D-1595-42C5-BD49-21D75E78C58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A1C18D-1595-42C5-BD49-21D75E78C58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A1C18D-1595-42C5-BD49-21D75E78C58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A1C18D-1595-42C5-BD49-21D75E78C58B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
