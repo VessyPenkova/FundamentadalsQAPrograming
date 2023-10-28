@@ -1,3 +1,4 @@
+using NUnit.Framework;
 using UnitTstingMethods_TestApp;
 
 namespace TestApp.UnitTests;
