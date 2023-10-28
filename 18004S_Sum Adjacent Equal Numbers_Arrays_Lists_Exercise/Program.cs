@@ -9,28 +9,17 @@
                  .Select(int.Parse)
                  .ToList();
 
-            bool isItHaveDuplicatedValues = true;
-            List<int> output = new List<int>();
-            while (isItHaveDuplicatedValues == true)
+            for (int j = 0; j < input.Count - 1; j++)
             {
-                for (int j = 0; j < input.Count - 1; j++)
+                if (input[j] == input[j + 1])
                 {
-                    if (input[j] == input[j + 1])
-                    {
-                        //3361
-                        int index = j;//i =0
-                        int sum = input[j] + input[j + 1]; //3+3=6
-                        output.Add(sum);
-                        input.Insert(index, sum);  //Insert 6 at index[0] 63361                 
-                        input.Remove(input[j + 1]);//Remove 3//-> On position[1] -> 6//6361
-                        input.Remove(input[j + 1]);//Remove 3//-> On position[2] -> 6// 661                        
-                    }
-                    else if (input[j] != input[j + 1])
-                    {
-                        output.Add(input[j]);
-                    }
+                    input[j] = input[j] + input[j + 1];
+                    //Присвоянаме нова стойност на мястото на
+                    //първото повтаряемо число с случая сумата
+                    input.Remove(input[j + 1]);
+                    //Премахваме второто повтараяемо число от списъка
+                    j = -1;
                 }
-                input = output;
             }
             Console.Write(String.Join(" ", input));
         }

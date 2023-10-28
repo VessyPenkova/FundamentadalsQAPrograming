@@ -321,6 +321,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18005_Bomb Numbers_Arrays_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18006S_Cards Game_Arrays_Lists_Exercise", "18006S_Cards Game_Arrays_Lists_Exercise\18006S_Cards Game_Arrays_Lists_Exercise.csproj", "{40CFDC12-C9D6-4381-88B0-99BB747EF510}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18007_Zig-Zag Arrays_Arrays_Lists_Exercise", "18007_Zig-Zag Arrays_Arrays_Lists_Exercise\18007_Zig-Zag Arrays_Arrays_Lists_Exercise.csproj", "{24982BFE-A2FD-4F32-A2EF-658C4FF1DC01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -963,6 +965,10 @@ Global
 		{40CFDC12-C9D6-4381-88B0-99BB747EF510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40CFDC12-C9D6-4381-88B0-99BB747EF510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40CFDC12-C9D6-4381-88B0-99BB747EF510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24982BFE-A2FD-4F32-A2EF-658C4FF1DC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24982BFE-A2FD-4F32-A2EF-658C4FF1DC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24982BFE-A2FD-4F32-A2EF-658C4FF1DC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24982BFE-A2FD-4F32-A2EF-658C4FF1DC01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
