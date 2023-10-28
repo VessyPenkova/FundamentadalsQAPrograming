@@ -11,7 +11,7 @@ namespace TestApp.UnitTests;
 public class StringReverseTests
 {
     [Test]
-    public void Test_Reverse_WhenGivenEmptyString_ReturnsEmptyString()
+    public void TestReverseWhenGivenEmptyStringReturnsEmptyString()
     {
         // Arrange
         string input = string.Empty;
@@ -24,7 +24,7 @@ public class StringReverseTests
     }
 
     [Test]
-    public void Test_Reverse_WhenGivenSingleCharacterString_ReturnsSameCharacter()
+    public void TestReverseWhenGivenSingleCharacterStringReturnsSameCharacter()
     {
         // Arrange
         string input = "V";
@@ -38,7 +38,7 @@ public class StringReverseTests
     }
 
     [Test]
-    public void Test_Reverse_WhenGivenNormalString_ReturnsReversedString()
+    public void TestReverseWhenGivenNormalStringReturnsReversedString()
     {
         // Arrange
         string input = "ABC";

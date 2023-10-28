@@ -10,8 +10,9 @@ namespace TestApp.UnitTests;
 
 public class TriangleTests
 {
+
     [Test]
-    public void Test_Triangle_OutputMatchesExpected_Size0()
+    public void TestTriangleOutputMatchesExpectedSize0()
     {
         // Arrange      
         int input = 0;
@@ -44,7 +45,7 @@ public class TriangleTests
     }
 
     [Test]
-    public void Test_Triangle_OutputMatchesExpected_Size5()
+    public void TestTriangleOutputMatchesExpectedSize5()
     {
         // Arrange      
         int input = 5;

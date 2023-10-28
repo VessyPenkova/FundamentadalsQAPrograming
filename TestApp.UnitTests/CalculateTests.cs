@@ -6,7 +6,7 @@ namespace TestApp.UnitTests;
 public class CalculateTests
 {
     [Test]
-    public void Test_Addition()
+    public void TestAddition()
     {
         // Arrange
         Calculate calculator = new();
