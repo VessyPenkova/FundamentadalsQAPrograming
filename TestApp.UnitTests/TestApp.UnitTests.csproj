@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UnitTstingMethods_TestApp\UnitTstingMethods_TestApp.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace UnitTstingMethods_TestApp
+﻿namespace UnitTstingMethods_TestApp
 {
-    internal class Factorial
+    public class Factorial
     {
+        public static int CalculateFactorial(int n)
+        {
+            if (n < 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(n));
+            }
+
+            if (n == 0)
+            {
+                return 1;
+            }
+
+            return n * CalculateFactorial(n - 1);
+        }
     }
+
 }

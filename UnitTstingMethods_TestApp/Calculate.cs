@@ -1,10 +1,16 @@
 ﻿namespace UnitTstingMethods_TestApp
 {
-    internal class Program
+    public class Calculate
     {
-        static void Main(string[] args)
+        public int Addition(int a, int b)
         {
-            Console.WriteLine("Hello, World!");
+            return a + b;
+        }
+
+        public int Subtraction(int a, int b)
+        {
+            return a - b;
         }
     }
+
 }

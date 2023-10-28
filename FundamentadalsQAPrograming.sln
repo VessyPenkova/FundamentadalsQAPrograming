@@ -327,7 +327,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18008_Array Rotation_Arrays
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18009S_Max Sequence of Equal Elements_Arrays_Lists_Exercise", "18009S_Max Sequence of Equal Elements_Arrays_Lists_Exercise\18009S_Max Sequence of Equal Elements_Arrays_Lists_Exercise.csproj", "{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingMethods_Lab", "UnitTestingMethods_Lab\UnitTestingMethods_Lab.csproj", "{4795DE03-90C3-4C36-9022-936550BD0DF5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTestigMethods_Lab", "UnitTestigMethods_Lab", "{6691D4A3-C523-4951-AEAF-44AD4A3267FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTstingMethods_TestApp", "UnitTstingMethods_TestApp\UnitTstingMethods_TestApp.csproj", "{B5CDC956-BE21-4E77-9893-14EF0F22EFC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp.UnitTests", "TestApp.UnitTests\TestApp.UnitTests.csproj", "{38231A89-5D17-4DE0-9EED-DFD2D4CAF1BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -983,13 +987,21 @@ Global
 		{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CDC956-BE21-4E77-9893-14EF0F22EFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CDC956-BE21-4E77-9893-14EF0F22EFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CDC956-BE21-4E77-9893-14EF0F22EFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CDC956-BE21-4E77-9893-14EF0F22EFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38231A89-5D17-4DE0-9EED-DFD2D4CAF1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38231A89-5D17-4DE0-9EED-DFD2D4CAF1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38231A89-5D17-4DE0-9EED-DFD2D4CAF1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38231A89-5D17-4DE0-9EED-DFD2D4CAF1BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B5CDC956-BE21-4E77-9893-14EF0F22EFC6} = {6691D4A3-C523-4951-AEAF-44AD4A3267FE}
+		{38231A89-5D17-4DE0-9EED-DFD2D4CAF1BB} = {6691D4A3-C523-4951-AEAF-44AD4A3267FE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD04BC31-60FA-46E2-A229-7A1ACA4A6B25}
