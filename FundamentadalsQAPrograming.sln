@@ -245,85 +245,89 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14002_Methods_Lab_Grades", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14003_Methods_Lab_Printing Triangle", "14003_Methods_Lab_Printing Triangle\14003_Methods_Lab_Printing Triangle.csproj", "{6C36DEA2-0359-4628-8151-7AC43E255A09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14004_Methods_Lab_Calculate Rectangle Area", "14004_Methods_Lab_Calculate Rectangle Area\14004_Methods_Lab_Calculate Rectangle Area.csproj", "{7D20D8CF-6BC5-4701-8D81-5F1EE8C817D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14004_Methods_Lab_Calculate Rectangle Area", "14004_Methods_Lab_Calculate Rectangle Area\14004_Methods_Lab_Calculate Rectangle Area.csproj", "{7D20D8CF-6BC5-4701-8D81-5F1EE8C817D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14005_Methods_Lab_Repeat String", "14005_Methods_Lab_Repeat String\14005_Methods_Lab_Repeat String.csproj", "{5552D129-CC7A-4192-9161-D20CCB7B1C43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14005_Methods_Lab_Repeat String", "14005_Methods_Lab_Repeat String\14005_Methods_Lab_Repeat String.csproj", "{5552D129-CC7A-4192-9161-D20CCB7B1C43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14006_Methods_Lab_Math Power", "14006._Methods_Lab_Math Power\14006_Methods_Lab_Math Power.csproj", "{35F7FD4C-6E06-45EB-AFA6-876341BD07F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14006_Methods_Lab_Math Power", "14006._Methods_Lab_Math Power\14006_Methods_Lab_Math Power.csproj", "{35F7FD4C-6E06-45EB-AFA6-876341BD07F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14007_Methods_Lab_Greater of Two Values", "14007_Methods_Lab_Greater of Two Values\14007_Methods_Lab_Greater of Two Values.csproj", "{71FEF58D-12BA-40CD-80AD-74A5C4D6DD5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14007_Methods_Lab_Greater of Two Values", "14007_Methods_Lab_Greater of Two Values\14007_Methods_Lab_Greater of Two Values.csproj", "{71FEF58D-12BA-40CD-80AD-74A5C4D6DD5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14008_Methods_Lab_Multiply_Evens_by_Odds", "14008_Methods_Lab_Multiply_Evens_by_Odds\14008_Methods_Lab_Multiply_Evens_by_Odds.csproj", "{7A23B4D2-B2EA-4B23-8361-203D76275B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14008_Methods_Lab_Multiply_Evens_by_Odds", "14008_Methods_Lab_Multiply_Evens_by_Odds\14008_Methods_Lab_Multiply_Evens_by_Odds.csproj", "{7A23B4D2-B2EA-4B23-8361-203D76275B89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14009_Methods_Lab_Orders", "14009_Methods_Lab_Orders\14009_Methods_Lab_Orders.csproj", "{092D2CA4-93EE-44E5-934C-63927009D875}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14009_Methods_Lab_Orders", "14009_Methods_Lab_Orders\14009_Methods_Lab_Orders.csproj", "{092D2CA4-93EE-44E5-934C-63927009D875}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15001_Stupid Passwords_Exercise_Nested_Loops_Methods", "15001_Stupid Passwords_Exercise_Nested_Loops_Methods\15001_Stupid Passwords_Exercise_Nested_Loops_Methods.csproj", "{EF96A3E0-5F7B-4D61-9BCE-EAE33787445E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15001_Stupid Passwords_Exercise_Nested_Loops_Methods", "15001_Stupid Passwords_Exercise_Nested_Loops_Methods\15001_Stupid Passwords_Exercise_Nested_Loops_Methods.csproj", "{EF96A3E0-5F7B-4D61-9BCE-EAE33787445E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15002_Magic Numbers_Exercise_Nested_Loops_Methods", "15002_Magic Numbers_Exercise_Nested_Loops_Methods\15002_Magic Numbers_Exercise_Nested_Loops_Methods.csproj", "{502CD071-475F-4CC8-9A8A-BC562E098916}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15002_Magic Numbers_Exercise_Nested_Loops_Methods", "15002_Magic Numbers_Exercise_Nested_Loops_Methods\15002_Magic Numbers_Exercise_Nested_Loops_Methods.csproj", "{502CD071-475F-4CC8-9A8A-BC562E098916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15003_Unique PIN Codes_Exercise_Nested_Loops_Methods", "15003_Unique PIN Codes_Exercise_Nested_Loops_Methods\15003_Unique PIN Codes_Exercise_Nested_Loops_Methods.csproj", "{DDD5E76B-3499-4B25-A24E-77DAC4249681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15003_Unique PIN Codes_Exercise_Nested_Loops_Methods", "15003_Unique PIN Codes_Exercise_Nested_Loops_Methods\15003_Unique PIN Codes_Exercise_Nested_Loops_Methods.csproj", "{DDD5E76B-3499-4B25-A24E-77DAC4249681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15004_Letter-Combinations_Exercise_Nested_Loops_Methods", "15004_Letter-Combinations_Exercise_Nested_Loops_Methods\15004_Letter-Combinations_Exercise_Nested_Loops_Methods.csproj", "{038CDFD5-0061-4360-9A97-6451D715D4B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15004_Letter-Combinations_Exercise_Nested_Loops_Methods", "15004_Letter-Combinations_Exercise_Nested_Loops_Methods\15004_Letter-Combinations_Exercise_Nested_Loops_Methods.csproj", "{038CDFD5-0061-4360-9A97-6451D715D4B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15005_Happy Numbers_Exercise_Nested_Loops_Methods", "15005_Happy Numbers_Exercise_Nested_Loops_Methods\15005_Happy Numbers_Exercise_Nested_Loops_Methods.csproj", "{777B904B-F68A-4FFF-877C-71C3461B5F71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15005_Happy Numbers_Exercise_Nested_Loops_Methods", "15005_Happy Numbers_Exercise_Nested_Loops_Methods\15005_Happy Numbers_Exercise_Nested_Loops_Methods.csproj", "{777B904B-F68A-4FFF-877C-71C3461B5F71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15007_Factorial Division_Exercise_Nested_Loops_Methods", "15006_Factorial Division_Exercise_Nested_Loops_Methods\15007_Factorial Division_Exercise_Nested_Loops_Methods.csproj", "{0673A912-BA1F-4D35-B623-21C539D1E2D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15007_Factorial Division_Exercise_Nested_Loops_Methods", "15006_Factorial Division_Exercise_Nested_Loops_Methods\15007_Factorial Division_Exercise_Nested_Loops_Methods.csproj", "{0673A912-BA1F-4D35-B623-21C539D1E2D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15006_Vowels Count_ Exercise_Nested_Loops_Methods", "15006_Vowels Count_ Exercise_Nested_Loops_Methods\15006_Vowels Count_ Exercise_Nested_Loops_Methods.csproj", "{90691CA2-DDDD-4324-9810-4ADE62C39685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15006_Vowels Count_ Exercise_Nested_Loops_Methods", "15006_Vowels Count_ Exercise_Nested_Loops_Methods\15006_Vowels Count_ Exercise_Nested_Loops_Methods.csproj", "{90691CA2-DDDD-4324-9810-4ADE62C39685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15008_Multiplication Sign_Exercise_Nested_Loops_Methods", "15008_Multiplication Sign_Exercise_Nested_Loops_Methods\15008_Multiplication Sign_Exercise_Nested_Loops_Methods.csproj", "{C9EAB55E-92CB-41A6-B94F-0C61388D3690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15008_Multiplication Sign_Exercise_Nested_Loops_Methods", "15008_Multiplication Sign_Exercise_Nested_Loops_Methods\15008_Multiplication Sign_Exercise_Nested_Loops_Methods.csproj", "{C9EAB55E-92CB-41A6-B94F-0C61388D3690}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15009_Password Validator_Exercise_Nested_Loops_Methods", "15009_Password Validator_Exercise_Nested_Loops_Methods\15009_Password Validator_Exercise_Nested_Loops_Methods.csproj", "{51BD1217-FFE5-402A-85C7-B5B859D009B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15009_Password Validator_Exercise_Nested_Loops_Methods", "15009_Password Validator_Exercise_Nested_Loops_Methods\15009_Password Validator_Exercise_Nested_Loops_Methods.csproj", "{51BD1217-FFE5-402A-85C7-B5B859D009B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15009A_Password Validator_Exercise_Nested_Loops_Methods", "15009A_Password Validator_Exercise_Nested_Loops_Methods\15009A_Password Validator_Exercise_Nested_Loops_Methods.csproj", "{13522EEA-A811-4C11-995F-E2024084032C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15009A_Password Validator_Exercise_Nested_Loops_Methods", "15009A_Password Validator_Exercise_Nested_Loops_Methods\15009A_Password Validator_Exercise_Nested_Loops_Methods.csproj", "{13522EEA-A811-4C11-995F-E2024084032C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16001_Day of Week_ Lab_Arrays", "16001_Day of Week_ Lab_Arrays\16001_Day of Week_ Lab_Arrays.csproj", "{077191C9-2A6E-4A8C-9260-D3D4F5C91BFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16001_Day of Week_ Lab_Arrays", "16001_Day of Week_ Lab_Arrays\16001_Day of Week_ Lab_Arrays.csproj", "{077191C9-2A6E-4A8C-9260-D3D4F5C91BFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16002_Sum an Array_ Lab_Arrays", "16002_Sum an Array_ Lab_Arrays\16002_Sum an Array_ Lab_Arrays.csproj", "{9F76EB39-85CE-4BAF-92E7-439667D8D9AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16002_Sum an Array_ Lab_Arrays", "16002_Sum an Array_ Lab_Arrays\16002_Sum an Array_ Lab_Arrays.csproj", "{9F76EB39-85CE-4BAF-92E7-439667D8D9AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16003_Reverse an Array_ Lab_Arrays", "16003_Reverse an Array_ Lab_Arrays\16003_Reverse an Array_ Lab_Arrays.csproj", "{210AE6D0-E916-4340-9C39-CF82775529E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16003_Reverse an Array_ Lab_Arrays", "16003_Reverse an Array_ Lab_Arrays\16003_Reverse an Array_ Lab_Arrays.csproj", "{210AE6D0-E916-4340-9C39-CF82775529E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16004_Even and Odd Subtraction_ Lab_Arrays", "16004_Even and Odd Subtraction_ Lab_Arrays\16004_Even and Odd Subtraction_ Lab_Arrays.csproj", "{B3D2C602-B6A4-4CCC-A28F-AB0D8B630C9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16004_Even and Odd Subtraction_ Lab_Arrays", "16004_Even and Odd Subtraction_ Lab_Arrays\16004_Even and Odd Subtraction_ Lab_Arrays.csproj", "{B3D2C602-B6A4-4CCC-A28F-AB0D8B630C9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16005_Equal Arrays_ Lab_Arrays", "16005_Equal Arrays_ Lab_Arrays\16005_Equal Arrays_ Lab_Arrays.csproj", "{ACD4AFF0-7425-44F2-99E6-E5ECAB00B24E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16005_Equal Arrays_ Lab_Arrays", "16005_Equal Arrays_ Lab_Arrays\16005_Equal Arrays_ Lab_Arrays.csproj", "{ACD4AFF0-7425-44F2-99E6-E5ECAB00B24E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16006_Common Elements_ Lab_Arrays", "16006_Common Elements_ Lab_Arrays\16006_Common Elements_ Lab_Arrays.csproj", "{C71DD989-530D-4195-AEFE-D6EE0F3C4702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16006_Common Elements_ Lab_Arrays", "16006_Common Elements_ Lab_Arrays\16006_Common Elements_ Lab_Arrays.csproj", "{C71DD989-530D-4195-AEFE-D6EE0F3C4702}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17001_Change List_ Lab_Lists", "17001_Change List_ Lab_Lists\17001_Change List_ Lab_Lists.csproj", "{1D2ACCFC-0F50-4138-A375-C72D4B64110E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17001_Change List_ Lab_Lists", "17001_Change List_ Lab_Lists\17001_Change List_ Lab_Lists.csproj", "{1D2ACCFC-0F50-4138-A375-C72D4B64110E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17001A_Change_List__Lab_Lists", "17001A_Change_List__Lab_Lists\17001A_Change_List__Lab_Lists.csproj", "{3D16A12D-3FE3-4DF2-984E-A8026A82DA50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17001A_Change_List__Lab_Lists", "17001A_Change_List__Lab_Lists\17001A_Change_List__Lab_Lists.csproj", "{3D16A12D-3FE3-4DF2-984E-A8026A82DA50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17002_List of Products_ Lab_Lists", "17002_List of Products_ Lab_Lists\17002_List of Products_ Lab_Lists.csproj", "{70BBD974-AC83-4B08-A20C-90F51714D58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17002_List of Products_ Lab_Lists", "17002_List of Products_ Lab_Lists\17002_List of Products_ Lab_Lists.csproj", "{70BBD974-AC83-4B08-A20C-90F51714D58E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17002A_List_of_Products__Lab_Lists", "17002A_List_of_Products__Lab_Lists\17002A_List_of_Products__Lab_Lists.csproj", "{96367100-9E0D-4143-B146-FD3E7E8A1304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17002A_List_of_Products__Lab_Lists", "17002A_List_of_Products__Lab_Lists\17002A_List_of_Products__Lab_Lists.csproj", "{96367100-9E0D-4143-B146-FD3E7E8A1304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17003_Remove Negatives and Reverse_ Lab_Lists", "17003_Remove Negatives and Reverse_ Lab_Lists\17003_Remove Negatives and Reverse_ Lab_Lists.csproj", "{37F80A90-D2CA-4787-84F1-1B9722D86EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17003_Remove Negatives and Reverse_ Lab_Lists", "17003_Remove Negatives and Reverse_ Lab_Lists\17003_Remove Negatives and Reverse_ Lab_Lists.csproj", "{37F80A90-D2CA-4787-84F1-1B9722D86EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17003A_Remove_Negatives_and_Reverse__Lab_Lists", "17003A_Remove_Negatives_and_Reverse__Lab_Lists\17003A_Remove_Negatives_and_Reverse__Lab_Lists.csproj", "{86906CED-7131-4800-B359-6BD9D43C1601}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17003A_Remove_Negatives_and_Reverse__Lab_Lists", "17003A_Remove_Negatives_and_Reverse__Lab_Lists\17003A_Remove_Negatives_and_Reverse__Lab_Lists.csproj", "{86906CED-7131-4800-B359-6BD9D43C1601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17004_List Manipulation Basics_ Lab_Lists", "17004_List Manipulation Basics_ Lab_Lists\17004_List Manipulation Basics_ Lab_Lists.csproj", "{A12BA8CF-AFFA-4DF7-A67D-9B9F432DCBBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17004_List Manipulation Basics_ Lab_Lists", "17004_List Manipulation Basics_ Lab_Lists\17004_List Manipulation Basics_ Lab_Lists.csproj", "{A12BA8CF-AFFA-4DF7-A67D-9B9F432DCBBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17004A_List_Manipulation_Basics__Lab_Lists", "17004A_List_Manipulation_Basics__Lab_Lists\17004A_List_Manipulation_Basics__Lab_Lists.csproj", "{BF0DCE31-8994-4AA3-9422-72821BBAA352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17004A_List_Manipulation_Basics__Lab_Lists", "17004A_List_Manipulation_Basics__Lab_Lists\17004A_List_Manipulation_Basics__Lab_Lists.csproj", "{BF0DCE31-8994-4AA3-9422-72821BBAA352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17005_List Manipulation Advanced_ Lab_Lists", "17005_List Manipulation Advanced_ Lab_Lists\17005_List Manipulation Advanced_ Lab_Lists.csproj", "{F7EC4BD5-3C13-4472-B787-4C4057FBB30A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17005_List Manipulation Advanced_ Lab_Lists", "17005_List Manipulation Advanced_ Lab_Lists\17005_List Manipulation Advanced_ Lab_Lists.csproj", "{F7EC4BD5-3C13-4472-B787-4C4057FBB30A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17005A_List_Manipulation_Advanced__Lab_Lists", "17005A_List_Manipulation_Advanced__Lab_Lists\17005A_List_Manipulation_Advanced__Lab_Lists.csproj", "{C5D4022F-EBAF-4D60-B602-A307F350B40E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17005A_List_Manipulation_Advanced__Lab_Lists", "17005A_List_Manipulation_Advanced__Lab_Lists\17005A_List_Manipulation_Advanced__Lab_Lists.csproj", "{C5D4022F-EBAF-4D60-B602-A307F350B40E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18001_Gauss' Trick_Arrays_Lists_Exercise", "18001_Gauss' Trick_Arrays_Lists_Exercise\18001_Gauss' Trick_Arrays_Lists_Exercise.csproj", "{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18001_Gauss' Trick_Arrays_Lists_Exercise", "18001_Gauss' Trick_Arrays_Lists_Exercise\18001_Gauss' Trick_Arrays_Lists_Exercise.csproj", "{4FB17F0C-F347-4814-B4DE-F8A7C0C1F3B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18002_Condense Array to Number_Arrays_Lists_Exercise", "18002_Condense Array to Number_Arrays_Lists_Exercise\18002_Condense Array to Number_Arrays_Lists_Exercise.csproj", "{9A82BD17-40DB-4E78-893E-BF89CAC095E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18002_Condense Array to Number_Arrays_Lists_Exercise", "18002_Condense Array to Number_Arrays_Lists_Exercise\18002_Condense Array to Number_Arrays_Lists_Exercise.csproj", "{9A82BD17-40DB-4E78-893E-BF89CAC095E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18003_Merging Lists_Arrays_Lists_Exercise", "18003_Merging Lists_Arrays_Lists_Exercise\18003_Merging Lists_Arrays_Lists_Exercise.csproj", "{657DB6F7-F934-48E0-BA3E-CF53015284DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18003_Merging Lists_Arrays_Lists_Exercise", "18003_Merging Lists_Arrays_Lists_Exercise\18003_Merging Lists_Arrays_Lists_Exercise.csproj", "{657DB6F7-F934-48E0-BA3E-CF53015284DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise", "18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise\18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise.csproj", "{A5A1C18D-1595-42C5-BD49-21D75E78C58B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise", "18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise\18004S_Sum Adjacent Equal Numbers_Arrays_Lists_Exercise.csproj", "{A5A1C18D-1595-42C5-BD49-21D75E78C58B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18005_Bomb Numbers_Arrays_Lists_Exercise", "18005_Bomb Numbers_Arrays_Lists_Exercise\18005_Bomb Numbers_Arrays_Lists_Exercise.csproj", "{36A045B1-1E12-4C64-B0CD-18721F1F84CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18005_Bomb Numbers_Arrays_Lists_Exercise", "18005_Bomb Numbers_Arrays_Lists_Exercise\18005_Bomb Numbers_Arrays_Lists_Exercise.csproj", "{36A045B1-1E12-4C64-B0CD-18721F1F84CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18006S_Cards Game_Arrays_Lists_Exercise", "18006S_Cards Game_Arrays_Lists_Exercise\18006S_Cards Game_Arrays_Lists_Exercise.csproj", "{40CFDC12-C9D6-4381-88B0-99BB747EF510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18006S_Cards Game_Arrays_Lists_Exercise", "18006S_Cards Game_Arrays_Lists_Exercise\18006S_Cards Game_Arrays_Lists_Exercise.csproj", "{40CFDC12-C9D6-4381-88B0-99BB747EF510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18007_Zig-Zag Arrays_Arrays_Lists_Exercise", "18007_Zig-Zag Arrays_Arrays_Lists_Exercise\18007_Zig-Zag Arrays_Arrays_Lists_Exercise.csproj", "{24982BFE-A2FD-4F32-A2EF-658C4FF1DC01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18007_Zig-Zag Arrays_Arrays_Lists_Exercise", "18007_Zig-Zag Arrays_Arrays_Lists_Exercise\18007_Zig-Zag Arrays_Arrays_Lists_Exercise.csproj", "{24982BFE-A2FD-4F32-A2EF-658C4FF1DC01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18008_Array Rotation_Arrays_Lists_Exercise", "18008_Array Rotation_Arrays_Lists_Exercise\18008_Array Rotation_Arrays_Lists_Exercise.csproj", "{C5570710-FBDA-4028-868E-54F2BAD4BBA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18008_Array Rotation_Arrays_Lists_Exercise", "18008_Array Rotation_Arrays_Lists_Exercise\18008_Array Rotation_Arrays_Lists_Exercise.csproj", "{C5570710-FBDA-4028-868E-54F2BAD4BBA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18009S_Max Sequence of Equal Elements_Arrays_Lists_Exercise", "18009S_Max Sequence of Equal Elements_Arrays_Lists_Exercise\18009S_Max Sequence of Equal Elements_Arrays_Lists_Exercise.csproj", "{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingMethods_Lab", "UnitTestingMethods_Lab\UnitTestingMethods_Lab.csproj", "{4795DE03-90C3-4C36-9022-936550BD0DF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -975,6 +979,14 @@ Global
 		{C5570710-FBDA-4028-868E-54F2BAD4BBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5570710-FBDA-4028-868E-54F2BAD4BBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5570710-FBDA-4028-868E-54F2BAD4BBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25891D91-591C-4B39-8AC3-1AF3DBD5FFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4795DE03-90C3-4C36-9022-936550BD0DF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
