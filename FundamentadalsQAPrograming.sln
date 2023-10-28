@@ -319,6 +319,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18004S_Sum Adjacent Equal N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18005_Bomb Numbers_Arrays_Lists_Exercise", "18005_Bomb Numbers_Arrays_Lists_Exercise\18005_Bomb Numbers_Arrays_Lists_Exercise.csproj", "{36A045B1-1E12-4C64-B0CD-18721F1F84CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18006S_Cards Game_Arrays_Lists_Exercise", "18006S_Cards Game_Arrays_Lists_Exercise\18006S_Cards Game_Arrays_Lists_Exercise.csproj", "{40CFDC12-C9D6-4381-88B0-99BB747EF510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -957,6 +959,10 @@ Global
 		{36A045B1-1E12-4C64-B0CD-18721F1F84CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36A045B1-1E12-4C64-B0CD-18721F1F84CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36A045B1-1E12-4C64-B0CD-18721F1F84CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40CFDC12-C9D6-4381-88B0-99BB747EF510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CFDC12-C9D6-4381-88B0-99BB747EF510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CFDC12-C9D6-4381-88B0-99BB747EF510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CFDC12-C9D6-4381-88B0-99BB747EF510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
