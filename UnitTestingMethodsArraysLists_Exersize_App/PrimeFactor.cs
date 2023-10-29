@@ -29,9 +29,7 @@ namespace UnitTestingMethodsArraysLists_Exersize_App
 
                 divisor++;
             }
-
             return largestFactor;
         }
     }
-
 }
