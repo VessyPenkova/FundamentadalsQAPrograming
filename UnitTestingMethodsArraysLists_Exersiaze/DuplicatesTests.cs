@@ -9,7 +9,7 @@ namespace UnitTestingMethodsArraysLists_Exersiaze_Tests
 {
     public class DuplicatesTests
     {
-        // TODO: finish test
+
         [Test]
         public void Test_RemoveDuplicates_EmptyArray_ReturnsEmptyArray()
         {
@@ -23,7 +23,7 @@ namespace UnitTestingMethodsArraysLists_Exersiaze_Tests
             Assert.That(result , Is.Empty);
         }
 
-        // TODO: finish test
+
         [Test]
         public void Test_RemoveDuplicates_NoDuplicates_ReturnsOriginalArray()
         {
