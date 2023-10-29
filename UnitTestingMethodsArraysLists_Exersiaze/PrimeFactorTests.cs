@@ -44,5 +44,17 @@ namespace UnitTestingMethodsArraysLists_Exersiaze_Tests
             //Act & Assert
             Assert.That(result, Is.EqualTo(5));
         }
+        [Test]
+        public void Test_FindLargestPrimeFactor_LargeNumber123456789()
+        {
+            //Arrange
+            long n = 123456789 ;
+
+            //Act
+            long result = PrimeFactor.FindLargestPrimeFactor(n);
+
+            //Act & Assert
+            Assert.That(result, Is.EqualTo(3803));
+        }
     }
 }
