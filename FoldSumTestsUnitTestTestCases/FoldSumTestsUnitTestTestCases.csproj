@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CenterPoint\CenterPoint_App.csproj" />
+    <ProjectReference Include="..\FoldSum_App\FoldSum_App.csproj" />
   </ItemGroup>
 
 </Project>
