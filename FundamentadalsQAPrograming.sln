@@ -345,6 +345,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingMethodsArraysLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingMethodsArraysLists_Exersiaze_Tests", "UnitTestingMethodsArraysLists_Exersiaze\UnitTestingMethodsArraysLists_Exersiaze_Tests.csproj", "{249AE373-3A2F-4F9F-A60D-2A233E78704B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExamPrepRtion_1", "ExamPrepRtion_1", "{A1818476-E968-4313-8F24-ED386397B12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoint", "CenterPoint\CenterPoint.csproj", "{B050AAC3-7C5D-4E9E-8591-DF35BA9ADBBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1023,6 +1027,10 @@ Global
 		{249AE373-3A2F-4F9F-A60D-2A233E78704B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{249AE373-3A2F-4F9F-A60D-2A233E78704B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{249AE373-3A2F-4F9F-A60D-2A233E78704B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B050AAC3-7C5D-4E9E-8591-DF35BA9ADBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B050AAC3-7C5D-4E9E-8591-DF35BA9ADBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B050AAC3-7C5D-4E9E-8591-DF35BA9ADBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B050AAC3-7C5D-4E9E-8591-DF35BA9ADBBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1034,6 +1042,7 @@ Global
 		{608B12E0-04BA-45EF-B359-9F45B18C2D85} = {F2B00964-8980-42F6-855C-798B9A362308}
 		{21D45A70-6E25-44D0-B251-BEFA191E1B14} = {F2ABD9E0-7C50-4764-8B8F-B8F68AE9E10C}
 		{249AE373-3A2F-4F9F-A60D-2A233E78704B} = {F2ABD9E0-7C50-4764-8B8F-B8F68AE9E10C}
+		{B050AAC3-7C5D-4E9E-8591-DF35BA9ADBBC} = {A1818476-E968-4313-8F24-ED386397B12C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD04BC31-60FA-46E2-A229-7A1ACA4A6B25}
