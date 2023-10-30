@@ -349,13 +349,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExamPreparation_1", "ExamPr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CenterPoint_App", "CenterPoint\CenterPoint_App.csproj", "{B050AAC3-7C5D-4E9E-8591-DF35BA9ADBBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPointUnitTests", "CenterPointTests\CenterPointUnitTests.csproj", "{CF2AA4F5-1214-4819-97BB-98385C19A218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CenterPointUnitTests", "CenterPointTests\CenterPointUnitTests.csproj", "{CF2AA4F5-1214-4819-97BB-98385C19A218}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExamPreparation_2", "ExamPreparation_2", "{92FB7317-6DAF-453B-BC67-3827647C7943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldSum_App", "FoldSum_App\FoldSum_App.csproj", "{8F36B55F-5851-4B2D-9766-003DAABC5A6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoldSum_App", "FoldSum_App\FoldSum_App.csproj", "{8F36B55F-5851-4B2D-9766-003DAABC5A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldSumTestsUnitTestTestCases", "FoldSumTestsUnitTestTestCases\FoldSumTestsUnitTestTestCases.csproj", "{36B52415-2B28-4F7F-A43E-A347403AC302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoldSumTestsUnitTestTestCases", "FoldSumTestsUnitTestTestCases\FoldSumTestsUnitTestTestCases.csproj", "{36B52415-2B28-4F7F-A43E-A347403AC302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SumFactorialEvenDigits", "01_SumFactorialEvenDigits\01_SumFactorialEvenDigits.csproj", "{562A713C-2896-47C6-97BF-594C70E143BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1051,6 +1053,10 @@ Global
 		{36B52415-2B28-4F7F-A43E-A347403AC302}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36B52415-2B28-4F7F-A43E-A347403AC302}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36B52415-2B28-4F7F-A43E-A347403AC302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562A713C-2896-47C6-97BF-594C70E143BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562A713C-2896-47C6-97BF-594C70E143BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562A713C-2896-47C6-97BF-594C70E143BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562A713C-2896-47C6-97BF-594C70E143BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1066,6 +1072,7 @@ Global
 		{CF2AA4F5-1214-4819-97BB-98385C19A218} = {A1818476-E968-4313-8F24-ED386397B12C}
 		{8F36B55F-5851-4B2D-9766-003DAABC5A6F} = {92FB7317-6DAF-453B-BC67-3827647C7943}
 		{36B52415-2B28-4F7F-A43E-A347403AC302} = {92FB7317-6DAF-453B-BC67-3827647C7943}
+		{562A713C-2896-47C6-97BF-594C70E143BC} = {A1818476-E968-4313-8F24-ED386397B12C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD04BC31-60FA-46E2-A229-7A1ACA4A6B25}

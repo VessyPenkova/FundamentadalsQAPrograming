@@ -1,31 +1,30 @@
 ﻿using System.ComponentModel;
 
-namespace _15007_Factorial_Division_Exercise_Nested_Loops_Methods
+namespace _15007_Factorial_Division_Exercise_Nested_Loops_Methods;
+
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int firstNumber = int.Parse(Console.ReadLine());
+        int secondNumber = int.Parse(Console.ReadLine());
+      
+        int factFirstNumber = CalculateFactorial(firstNumber);
+
+        int factSecondNumber = CalculateFactorial(secondNumber);
+
+        Console.WriteLine(factFirstNumber / factSecondNumber);
+
+        static int CalculateFactorial(int number)
         {
-            int firstNumber = int.Parse(Console.ReadLine());
-            int secondNumber = int.Parse(Console.ReadLine());
-          
-            int factFirstNumber = CalculateFactorial(firstNumber);
-
-            int factSecondNumber = CalculateFactorial(secondNumber);
-
-            Console.WriteLine(factFirstNumber / factSecondNumber);
-
-            static int CalculateFactorial(int number)
+            //5! = 1 * 2 * 3 * 4 * 5
+            int fact = 1; //factorial
+            for (int i = 1; i <= number; i++)
             {
-                //5! = 1 * 2 * 3 * 4 * 5
-                int fact = 1; //factorial
-                for (int i = 1; i <= number; i++)
-                {
-                    fact = fact * i;
-                }
-                //calculated factorial in  fact
-                return fact;
+                fact = fact * i;
             }
+            //calculated factorial in  fact
+            return fact;
         }
     }
 }
