@@ -359,6 +359,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoldSumTestsUnitTestTestCas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SumFactorialEvenDigits", "01_SumFactorialEvenDigits\01_SumFactorialEvenDigits.csproj", "{562A713C-2896-47C6-97BF-594C70E143BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2._MiddleElements", "2._MiddleElements\2._MiddleElements.csproj", "{49B51E40-27FF-4654-8412-02B2D341CCB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1057,6 +1059,10 @@ Global
 		{562A713C-2896-47C6-97BF-594C70E143BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{562A713C-2896-47C6-97BF-594C70E143BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{562A713C-2896-47C6-97BF-594C70E143BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B51E40-27FF-4654-8412-02B2D341CCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B51E40-27FF-4654-8412-02B2D341CCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B51E40-27FF-4654-8412-02B2D341CCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B51E40-27FF-4654-8412-02B2D341CCB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1073,6 +1079,7 @@ Global
 		{8F36B55F-5851-4B2D-9766-003DAABC5A6F} = {92FB7317-6DAF-453B-BC67-3827647C7943}
 		{36B52415-2B28-4F7F-A43E-A347403AC302} = {92FB7317-6DAF-453B-BC67-3827647C7943}
 		{562A713C-2896-47C6-97BF-594C70E143BC} = {A1818476-E968-4313-8F24-ED386397B12C}
+		{49B51E40-27FF-4654-8412-02B2D341CCB5} = {A1818476-E968-4313-8F24-ED386397B12C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD04BC31-60FA-46E2-A229-7A1ACA4A6B25}
