@@ -1,45 +1,45 @@
-﻿namespace _05004_Exam_Preparation
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            int failedtry = int.Parse(Console.ReadLine());
-            int failedTime = 0;
-            int solverProblems = 0;
-            double gradeSum = 0;
-            string lastProblem = string.Empty;
-            bool isFailed = true;
-            while (failedTime < failedtry)
-            {
-                string taskName = (Console.ReadLine());
-                if ("Enough" == taskName)
-                {
-                    isFailed = false;
-                    break;
-                }
-                int grade = int.Parse(Console.ReadLine());
-                if (grade <= 4)
-                {
-                    failedTime++;
-                }
-                gradeSum += grade;
-                solverProblems++;
-                lastProblem = taskName;
-            }
-            if (isFailed)
-            {
-                Console.WriteLine($"You need a break, {failedtry} poor grades.");
-            }
-            else
-            {
-                Console.WriteLine($"Average score: {gradeSum / solverProblems:f2}");
-                Console.WriteLine($"Number of problems: {solverProblems}");
-                Console.WriteLine($"Last problem: {lastProblem}");
-            }
-        }
-    }
-}
+﻿//namespace _05004_Exam_Preparation
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            int failedtry = int.Parse(Console.ReadLine());
+//            int failedTime = 0;
+//            int solverProblems = 0;
+//            double gradeSum = 0;
+//            string lastProblem = string.Empty;
+//            bool isFailed = true;
+//            while (failedTime < failedtry)
+//            {
+//                string taskName = (Console.ReadLine());
+//                if ("Enough" == taskName)
+//                {
+//                    isFailed = false;
+//                    break;
+//                }
+//                int grade = int.Parse(Console.ReadLine());
+//                if (grade <= 4)
+//                {
+//                    failedTime++;
+//                }
+//                gradeSum += grade;
+//                solverProblems++;
+//                lastProblem = taskName;
+//            }
+//            if (isFailed)
+//            {
+//                Console.WriteLine($"You need a break, {failedtry} poor grades.");
+//            }
+//            else
+//            {
+//                Console.WriteLine($"Average score: {gradeSum / solverProblems:f2}");
+//                Console.WriteLine($"Number of problems: {solverProblems}");
+//                Console.WriteLine($"Last problem: {lastProblem}");
+//            }
+//        }
+//    }
+//}
 
 //Input
 //•	On the first line - number of poor grades - an integer in the range [1…5]

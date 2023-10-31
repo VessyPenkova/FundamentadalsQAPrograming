@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-
+            ////int[] inputAttey = Console.ReadLine()
+            ////    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+            ////    .Select(int.Parse)
+            ////    .ToArray();
             int[] input = Console.ReadLine()
                 .Split(" ")
                 .Select(int.Parse)
